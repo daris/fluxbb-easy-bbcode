@@ -3,7 +3,7 @@
 ##        Mod title:  Easy BBCode
 ##
 ##      Mod version:  1.0.3
-##  Works on FluxBB:  1.4.5, 1.4.4
+##  Works on FluxBB:  1.4.7, 1.4.6, 1.4.5, 1.4.4
 ##     Release date:  2011-04-08
 ##      Review date:  YYYY-MM-DD (Leave unedited)
 ##           Author:  Daris (daris91@gmail.com)
