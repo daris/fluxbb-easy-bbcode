@@ -16,7 +16,7 @@ if (!isset($bbcode_field))
 								else if (document.getElementsByName('<?php echo $bbcode_field ?>'))
 									msgfield = document.getElementsByName('<?php echo $bbcode_field ?>')[0];
 								else
-									document.all.req_message;
+									msgfield = document.all.req_message;
 
 								// IE support
 								if (document.selection && document.selection.createRange)
